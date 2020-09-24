@@ -8,10 +8,6 @@ Created on Sat Apr 25 19:30:30 2020
 
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 18 23:09:06 2020
-
-@author: Abhinav
-"""
 
 #Multiple Regression
 
