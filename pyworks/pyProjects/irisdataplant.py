@@ -6,12 +6,6 @@ Created on Sun May  3 18:25:34 2020
 """
 
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 20:48:04 2020
-
-@author: Abhinav
-"""
 
 # Importing the libraries
 import pandas as pd
